@@ -1,9 +1,9 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "JavaScript, HTML, CSS",
+    subtitle: "Note Ninja",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "The ultimate Chrome extension for seamless note-taking and organization. With Note Ninja, you can effortlessly save important information to Microsoft Word or Google Docs while browsing the web. ",
     image: "./project-1.gif",
     link: "https://reactbootcamp.com",
   },
