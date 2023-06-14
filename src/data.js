@@ -5,15 +5,15 @@ export const projects = [
     description:
       "The ultimate Chrome extension for seamless note-taking and organization. With Note Ninja, you can effortlessly save important information to Microsoft Word or Google Docs while browsing the web. ",
     image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://chrome.google.com/webstore/detail/note-ninja/nldmjficnkjkmlekekkaehkhgpkoakdh",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Javascript, HTML, CSS",
+    subtitle: "Microsoft Outlook Signature Extension",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "An extension that allows users to create and manage their email signatures in Microsoft Outlook. ",
     image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/SeanKruse/school-projects/tree/main/Software%20Development%20Method%20and%20Tools",
   },
   {
     title: "DevChat",
@@ -53,8 +53,8 @@ export const testimonials = [
 export const skills = [
   "JavaScript",
   "React",
-  "Next.js",
+  "Python",
   "Node",
-  "GraphQL",
-  "Material UI",
+  "Java",
+  "GIT",
 ];
