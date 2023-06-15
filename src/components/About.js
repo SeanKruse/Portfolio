@@ -9,9 +9,9 @@ export default function About() {
                 apps.
               </h1>
               <p className="mb-8 leading-relaxed">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-                laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-                Laborum, voluptas natus?
+              I’m interested in software development, game design theory, and putting together pc hardware.
+              <br></br>
+              I spend my free time painting miniatures, reading design theory, and exploring new technologies.
               </p>
               <div className="flex justify-center">
                 <a

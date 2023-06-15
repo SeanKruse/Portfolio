@@ -46,7 +46,7 @@ export default function Contact() {
               </h2>
               <p className="mt-1">
                 <br />
-                Denver, CO 80221
+                Denver, Colorado
               </p>
             </div>
             <div className="lg:w-1/2 px-6 mt-4 lg:mt-0">
@@ -72,8 +72,7 @@ export default function Contact() {
             Hire Me
           </h2>
           <p className="leading-relaxed mb-5">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illum
-            suscipit officia aspernatur veritatis. Asperiores, aliquid?
+            I'm currently looking for any front-end or full-stack development opportunities. If you think I'd be a good fit for your team, please reach out!
           </p>
           <div className="relative mb-4">
             <label htmlFor="name" className="leading-7 text-sm text-gray-400">

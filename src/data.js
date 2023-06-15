@@ -11,7 +11,7 @@ export const projects = [
     title: "Javascript, HTML, CSS",
     subtitle: "Microsoft Outlook Signature Extension",
     description:
-      "An extension that allows users to create and manage their email signatures in Microsoft Outlook. ",
+      "An extension that allows users to create and manage their email signatures in Microsoft Outlook. Account management is handled directly through the extension.",
     image: "./project-2.gif",
     link: "https://github.com/SeanKruse/school-projects/tree/main/Software%20Development%20Method%20and%20Tools",
   },
@@ -36,17 +36,17 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Jesse Hicks",
-    company: "Zoozle",
+      "Note Ninja is a beneficial tool for students who use Chrome for their learning purpose. The feature to export this to a Word document makes it easy to organize the notes.",
+    image: "./capture.png",
+    name: "Ranjidha Anil",
+    company: "MSU Denver",
   },
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
+      "As an educator, I think Note Ninja is a great tool for students and researchers. It is very user-friendly and allows export notes to Google Docs and Microsoft Word.",
+    image: "./unnamed.jpg",
+    name: "Thyago Mota",
+    company: "MSU Denver",
   },
 ];
 
