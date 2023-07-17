@@ -9,7 +9,7 @@ export default function About() {
                 apps and beautiful websites.
               </h1>
               <p className="mb-8 leading-relaxed">
-              I’m interested in software development, game design theory, and putting together pc hardware.
+              I’m interested in software development, game design theory, and pc hardware.
               <br></br>
               I spend my free time painting miniatures, reading design theory, and exploring new technologies.
               </p>
