@@ -15,6 +15,14 @@ export const projects = [
     image: "./project-2.gif",
     link: "https://github.com/SeanKruse/school-projects/tree/main/Software%20Development%20Method%20and%20Tools",
   },
+  {
+    title: "Javascript, HTML, CSS",
+    subtitle: "Restaurant Website",
+    description:
+      "A website for a modern fine-dining restaurant using React.",
+    image: "./project-3.gif",
+    link: "https://seankruse.github.io/mock-restaurant/",
+  },
 ];
 
 export const testimonials = [
