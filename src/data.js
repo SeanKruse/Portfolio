@@ -19,7 +19,7 @@ export const projects = [
     title: "Javascript, HTML, CSS",
     subtitle: "Restaurant Website",
     description:
-      "A website for a modern fine-dining restaurant using React.",
+      "A website for a modern fine-dining restaurant using React and Tailwind CSS.",
     image: "./project-3.gif",
     link: "https://seankruse.github.io/mock-restaurant/",
   },
@@ -27,7 +27,7 @@ export const projects = [
     title: "Squarespace, HTML, CSS",
     subtitle: "KHD Counseling",
     description:
-      "A website for a client specialing in professional mentorship and consultation for therapists.",
+      "A website for a client specializing in private practice counseling, speaking engagements, and professional mentorship & consultation for therapists.",
     image: "./project-4.gif",
     link: "https://www.khdcounseling.com/",
   },
