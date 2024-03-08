@@ -27,7 +27,7 @@ export const projects = [
     title: "Squarespace, HTML, CSS",
     subtitle: "KHD Counseling",
     description:
-      "A website for a client specialing in professional mentorship and consultation for therapists",
+      "A website for a client specialing in professional mentorship and consultation for therapists.",
     image: "./project-4.gif",
     link: "https://www.khdcounseling.com/",
   },
