@@ -23,6 +23,14 @@ export const projects = [
     image: "./project-3.gif",
     link: "https://seankruse.github.io/mock-restaurant/",
   },
+  {
+    title: "Squarespace, HTML, CSS",
+    subtitle: "KHD Counseling",
+    description:
+      "A website for a client specialing in professional mentorship and consultation for therapists",
+    image: "./project-4.gif",
+    link: "https://www.khdcounseling.com/",
+  },
 ];
 
 export const testimonials = [
