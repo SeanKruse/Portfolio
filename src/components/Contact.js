@@ -45,7 +45,6 @@ export default function Contact() {
                 ADDRESS
               </h2>
               <p className="mt-1">
-                <br />
                 Denver, Colorado
               </p>
             </div>
